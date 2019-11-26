@@ -1,0 +1,79 @@
+div.position {
+  top: 0;
+  position : sticky;
+  text-align : center;
+  padding: 5px;
+  background-color: white;
+  font-family : "Shella Clean"
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  font-size: 20px;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.heir {
+  background-color: #233142;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+.selection {
+  background-color: #87c0cd;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+.elite {
+  background-color: #913535;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+.one {
+  background-color: #bbbbbb;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.about {
+  background-color: #141414;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.footer {
+  font-size : 14px;
+  text-align : center;
+  font-family : "Calibri";
+}
+
+section h1 {
+  color: black;
+}
+h4 {
+  color : black;
+  font-size : 14px;
+  text-align : center;
+  font-family : "Gentium Book Basic";
+}
